@@ -3,7 +3,9 @@ Hardware: STM32, RaspberryPi, Uart
 
 FreeRTOS
 task1: Read the value of the variable resistor and then blink the LED.
+
 task2: Pass that value to the Raspberry Pi via the UART protocol.
+
 task3: Blink the LED with a default time interval of 1 second.
 
 uart-receive.c
