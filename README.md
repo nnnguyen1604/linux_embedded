@@ -10,7 +10,7 @@ task2: Pass that value to the Raspberry Pi via the UART protocol.
 
 task3: Blink the LED with a default time interval of 1 second.
 
-uart-receive.c
+File: uart-receive.c
 
 Receive data from the UART port and save it to a .txt file.
 
